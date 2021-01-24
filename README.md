@@ -2,4 +2,4 @@
 my first repository
 
 hi guys
-I Love Android Develeping,I am from Iran.
+I Love Android Programm Develeping.
